@@ -5,3 +5,6 @@
 [submodule "NUETON"]
 	path = NUETON
 	url = https://github.com/cran/NUETON
+[submodule "PlateVision"]
+	path = PlateVision
+	url = https://github.com/cran/PlateVision
